@@ -1,2 +1,2 @@
-# datasciencecoursera
-Repository for Data Science Class on Coursera
+# This is a markdown file
+Use for initial ReadMe Purposes
